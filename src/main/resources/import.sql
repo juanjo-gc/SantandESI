@@ -1,0 +1,5 @@
+--INSERT INTO usuario (rol, id, dni, apellidos, contrasenna_hash, contrasenna_sal, email, fecha_nacimiento, nombre, fecha_alta, fecha_baja) VALUES ('cliente', 'd6eb3f30-69f9-4424-9098-4dec67ea56dd', '12345678J', 'Gil Calle', 'ac52558d7e670a36fdf187bb5dbdd487abcef587', N'⬛𓇳𦱄ㆍ𤌕𥲓㬂𭞋𣘳䄆⺍𦳟ᕦ𪈥𨼝𗣼𐬩𬌜𒈎', 'jjgc@gmail.com', '2000-07-26', 'Juan José', '2022-12-10', null);
+--INSERT INTO usuario (rol, id, dni, apellidos, contrasenna_hash, contrasenna_sal, email, fecha_nacimiento, nombre, fecha_alta, fecha_baja) VALUES ('operador', 'f698ea16-9520-4cf4-94c5-7b3220c77120', '12345678A', N'Martínez Orellana', 'b672fa72ebbd9105d5bb293f47e1f271d1f8b8ac', N'🝰䊮𬃅𦻈𤯐𠌑恑趹𖾁⢵𗑾𡵽充𐹴𒆻愲𭇇𣽑𡻷', 'dmo@gmail.com', '2000-07-17', 'David', '2022-12-10', null);
+--INSERT INTO usuario (rol, id, dni, apellidos, contrasenna_hash, contrasenna_sal, email, fecha_nacimiento, nombre, fecha_alta, fecha_baja) 
+--VALUES ('operador', '1', '12345678D', 'Filgueira Campelo', '1', 
+--'1', 'dfc@gmail.com', '2000-12-31', 'Diego', '2022-12-10', null);

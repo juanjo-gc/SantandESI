@@ -1,0 +1,10 @@
+#cuentas-view {
+    display: grid;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+:host {
+    display: block;
+    padding: var(--lumo-space-m) var(--lumo-space-l);
+}
